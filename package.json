@@ -1,0 +1,25 @@
+{
+  "name": "handle-error-web",
+  "version": "1.0.0",
+  "description": "Simple callback error dialog. Mostly just for me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimkang/handle-error-web.git"
+  },
+  "keywords": [],
+  "author": "Jim Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimkang/handle-error-web/issues"
+  },
+  "homepage": "https://github.com/jimkang/handle-error-web",
+  "devDependencies": {
+    "eslint": "^3.6.1",
+    "tape": "^4.6.0"
+  },
+  "dependencies": {}
+}
